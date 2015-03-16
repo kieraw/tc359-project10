@@ -1440,3 +1440,565 @@ Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 
 
 
 Started GET "/assets/application-001948a807d6467a657420955d9f0c1c.js?body=1" for ::1 at 2015-03-16 12:10:15 -0400
+
+
+Started GET "/" for ::1 at 2015-03-16 12:25:54 -0400
+Processing by StaticController#home as HTML
+  Rendered static/home.html.erb within layouts/application (17.3ms)
+Completed 200 OK in 349ms (Views: 329.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-16 12:25:55 -0400
+
+
+Started GET "/assets/static-0e2bfdd4b652799dfd9c36ffc9788ce9.css?body=1" for ::1 at 2015-03-16 12:25:55 -0400
+
+
+Started GET "/assets/application-df557f627b6d0bb743e6bd758eb2d5d5.css?body=1" for ::1 at 2015-03-16 12:25:55 -0400
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-16 12:25:55 -0400
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-16 12:25:55 -0400
+
+
+Started GET "/assets/static-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-03-16 12:25:55 -0400
+
+
+Started GET "/assets/application-001948a807d6467a657420955d9f0c1c.js?body=1" for ::1 at 2015-03-16 12:25:55 -0400
+
+
+Started GET "/cat-pictures" for ::1 at 2015-03-16 12:25:57 -0400
+Processing by StaticController#cats as HTML
+  Rendered static/cats.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 765ms (Views: 76.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-16 12:26:05 -0400
+Processing by StaticController#home as HTML
+  Rendered static/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 50ms (Views: 49.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/cat-pictures" for ::1 at 2015-03-16 12:26:14 -0400
+Processing by StaticController#cats as HTML
+  Rendered static/cats.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1046ms (Views: 58.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-16 12:26:21 -0400
+Processing by StaticController#home as HTML
+  Rendered static/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 55ms (Views: 54.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for ::1 at 2015-03-16 12:26:24 -0400
+Processing by StaticController#about as HTML
+  Rendered static/about.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 77ms (Views: 76.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/cat-pictures" for ::1 at 2015-03-16 12:26:26 -0400
+Processing by StaticController#cats as HTML
+  Rendered static/cats.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 838ms (Views: 59.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-16 12:26:31 -0400
+Processing by StaticController#home as HTML
+  Rendered static/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 49ms (Views: 48.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-16 12:27:40 -0400
+Processing by StaticController#home as HTML
+  Rendered static/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 209ms (Views: 208.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static-9c60698d2e7f3f37e81162ac52fcdac3.css?body=1" for ::1 at 2015-03-16 12:27:40 -0400
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-16 12:27:40 -0400
+
+
+Started GET "/assets/application-610f84645df3e74f8864ed11d34cc775.css?body=1" for ::1 at 2015-03-16 12:27:40 -0400
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-16 12:27:40 -0400
+
+
+Started GET "/assets/static-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-03-16 12:27:40 -0400
+
+
+Started GET "/assets/application-001948a807d6467a657420955d9f0c1c.js?body=1" for ::1 at 2015-03-16 12:27:40 -0400
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-16 12:27:40 -0400
+
+
+Started GET "/" for ::1 at 2015-03-16 12:27:41 -0400
+Processing by StaticController#home as HTML
+  Rendered static/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 52ms (Views: 51.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static-9c60698d2e7f3f37e81162ac52fcdac3.css?body=1" for ::1 at 2015-03-16 12:27:41 -0400
+
+
+Started GET "/assets/static-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-03-16 12:27:41 -0400
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-16 12:27:41 -0400
+
+
+Started GET "/assets/application-610f84645df3e74f8864ed11d34cc775.css?body=1" for ::1 at 2015-03-16 12:27:41 -0400
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-16 12:27:41 -0400
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-16 12:27:41 -0400
+
+
+Started GET "/assets/application-001948a807d6467a657420955d9f0c1c.js?body=1" for ::1 at 2015-03-16 12:27:41 -0400
+
+
+Started GET "/" for ::1 at 2015-03-16 12:27:55 -0400
+Processing by StaticController#home as HTML
+  Rendered static/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 79ms (Views: 78.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static-c48f56df1eb8e20380c2a2ecab005f1d.css?body=1" for ::1 at 2015-03-16 12:27:55 -0400
+
+
+Started GET "/assets/application-4be067820a2ff909bc9f79ac11b31adc.css?body=1" for ::1 at 2015-03-16 12:27:55 -0400
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-16 12:27:55 -0400
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-16 12:27:55 -0400
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-16 12:27:55 -0400
+
+
+Started GET "/assets/static-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-03-16 12:27:55 -0400
+
+
+Started GET "/assets/application-001948a807d6467a657420955d9f0c1c.js?body=1" for ::1 at 2015-03-16 12:27:55 -0400
+
+
+Started GET "/" for ::1 at 2015-03-16 12:27:56 -0400
+Processing by StaticController#home as HTML
+  Rendered static/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 48ms (Views: 47.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-4be067820a2ff909bc9f79ac11b31adc.css?body=1" for ::1 at 2015-03-16 12:27:56 -0400
+
+
+Started GET "/assets/static-c48f56df1eb8e20380c2a2ecab005f1d.css?body=1" for ::1 at 2015-03-16 12:27:56 -0400
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-16 12:27:56 -0400
+
+
+Started GET "/assets/static-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-03-16 12:27:56 -0400
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-16 12:27:56 -0400
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-16 12:27:56 -0400
+
+
+Started GET "/assets/application-001948a807d6467a657420955d9f0c1c.js?body=1" for ::1 at 2015-03-16 12:27:56 -0400
+
+
+Started GET "/" for ::1 at 2015-03-16 12:28:20 -0400
+Processing by StaticController#home as HTML
+  Rendered static/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 101ms (Views: 100.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static-bb88da2f6843948ce517cf5672a96ed8.css?body=1" for ::1 at 2015-03-16 12:28:21 -0400
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-16 12:28:21 -0400
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-16 12:28:21 -0400
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-16 12:28:21 -0400
+
+
+Started GET "/assets/static-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-03-16 12:28:21 -0400
+
+
+Started GET "/assets/application-ab097d75acfe0378a20a6de5732cc7cb.css?body=1" for ::1 at 2015-03-16 12:28:21 -0400
+
+
+Started GET "/assets/application-001948a807d6467a657420955d9f0c1c.js?body=1" for ::1 at 2015-03-16 12:28:21 -0400
+
+
+Started GET "/" for ::1 at 2015-03-16 12:28:30 -0400
+Processing by StaticController#home as HTML
+  Rendered static/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 81ms (Views: 80.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static-a4dcc45faf6c3f2ecd98d6e753d58882.css?body=1" for ::1 at 2015-03-16 12:28:30 -0400
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-16 12:28:30 -0400
+
+
+Started GET "/assets/application-0443b8f97908df6d149b11c8313b4e6d.css?body=1" for ::1 at 2015-03-16 12:28:30 -0400
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-16 12:28:30 -0400
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-16 12:28:30 -0400
+
+
+Started GET "/assets/static-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-03-16 12:28:30 -0400
+
+
+Started GET "/assets/application-001948a807d6467a657420955d9f0c1c.js?body=1" for ::1 at 2015-03-16 12:28:30 -0400
+
+
+Started GET "/" for ::1 at 2015-03-16 12:28:31 -0400
+Processing by StaticController#home as HTML
+  Rendered static/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 51ms (Views: 49.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static-a4dcc45faf6c3f2ecd98d6e753d58882.css?body=1" for ::1 at 2015-03-16 12:28:31 -0400
+
+
+Started GET "/assets/application-0443b8f97908df6d149b11c8313b4e6d.css?body=1" for ::1 at 2015-03-16 12:28:31 -0400
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-16 12:28:31 -0400
+
+
+Started GET "/assets/static-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-03-16 12:28:31 -0400
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-16 12:28:31 -0400
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-16 12:28:31 -0400
+
+
+Started GET "/assets/application-001948a807d6467a657420955d9f0c1c.js?body=1" for ::1 at 2015-03-16 12:28:31 -0400
+
+
+Started GET "/" for ::1 at 2015-03-16 12:28:32 -0400
+Processing by StaticController#home as HTML
+  Rendered static/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 55ms (Views: 54.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static-a4dcc45faf6c3f2ecd98d6e753d58882.css?body=1" for ::1 at 2015-03-16 12:28:32 -0400
+
+
+Started GET "/assets/application-0443b8f97908df6d149b11c8313b4e6d.css?body=1" for ::1 at 2015-03-16 12:28:32 -0400
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-16 12:28:32 -0400
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-16 12:28:32 -0400
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-16 12:28:32 -0400
+
+
+Started GET "/assets/static-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-03-16 12:28:32 -0400
+
+
+Started GET "/assets/application-001948a807d6467a657420955d9f0c1c.js?body=1" for ::1 at 2015-03-16 12:28:32 -0400
+
+
+Started GET "/" for ::1 at 2015-03-16 12:28:44 -0400
+Processing by StaticController#home as HTML
+  Rendered static/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 76ms (Views: 75.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-277cb8593d188808f5b51a119612300b.css?body=1" for ::1 at 2015-03-16 12:28:44 -0400
+
+
+Started GET "/assets/static-112281c2843fc15a9804625bc62eceb4.css?body=1" for ::1 at 2015-03-16 12:28:44 -0400
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-16 12:28:44 -0400
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-16 12:28:44 -0400
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-16 12:28:44 -0400
+
+
+Started GET "/assets/static-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-03-16 12:28:44 -0400
+
+
+Started GET "/assets/application-001948a807d6467a657420955d9f0c1c.js?body=1" for ::1 at 2015-03-16 12:28:44 -0400
+
+
+Started GET "/" for ::1 at 2015-03-16 12:29:06 -0400
+Processing by StaticController#home as HTML
+  Rendered static/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 79ms (Views: 78.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-ffd765cd7760f77ad62432c3d18f7830.css?body=1" for ::1 at 2015-03-16 12:29:06 -0400
+
+
+Started GET "/assets/static-9a3bd7a02129145f74784a1b9ccce3e0.css?body=1" for ::1 at 2015-03-16 12:29:06 -0400
+
+
+Started GET "/assets/static-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-03-16 12:29:06 -0400
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-16 12:29:06 -0400
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-16 12:29:06 -0400
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-16 12:29:06 -0400
+
+
+Started GET "/assets/application-001948a807d6467a657420955d9f0c1c.js?body=1" for ::1 at 2015-03-16 12:29:06 -0400
+
+
+Started GET "/" for ::1 at 2015-03-16 12:29:13 -0400
+Processing by StaticController#home as HTML
+  Rendered static/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 54ms (Views: 53.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for ::1 at 2015-03-16 12:29:14 -0400
+Processing by StaticController#about as HTML
+  Rendered static/about.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 80ms (Views: 78.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/cat-pictures" for ::1 at 2015-03-16 12:29:17 -0400
+Processing by StaticController#cats as HTML
+  Rendered static/cats.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 918ms (Views: 50.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-16 12:29:20 -0400
+Processing by StaticController#home as HTML
+  Rendered static/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 54ms (Views: 53.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-16 12:29:38 -0400
+Processing by StaticController#home as HTML
+  Rendered static/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 75ms (Views: 74.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-16 12:29:38 -0400
+
+
+Started GET "/assets/application-f83f9149b1b1eeb0811585863bcddcb5.css?body=1" for ::1 at 2015-03-16 12:29:38 -0400
+
+
+Started GET "/assets/application-001948a807d6467a657420955d9f0c1c.js?body=1" for ::1 at 2015-03-16 12:29:38 -0400
+
+
+Started GET "/assets/static-7896415cd850f83b4fc0ebb0a3422a6f.css?body=1" for ::1 at 2015-03-16 12:29:38 -0400
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-16 12:29:38 -0400
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-16 12:29:38 -0400
+
+
+Started GET "/assets/static-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-03-16 12:29:38 -0400
+
+
+Started GET "/" for ::1 at 2015-03-16 12:29:45 -0400
+Processing by StaticController#home as HTML
+  Rendered static/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 74ms (Views: 72.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static-78c9ea1fe9cddbd0f79566ab82b39d1e.css?body=1" for ::1 at 2015-03-16 12:29:45 -0400
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-16 12:29:45 -0400
+
+
+Started GET "/assets/static-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-03-16 12:29:45 -0400
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-16 12:29:45 -0400
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-16 12:29:45 -0400
+
+
+Started GET "/assets/application-06bf95bed83a42d724ae3a2f537501cf.css?body=1" for ::1 at 2015-03-16 12:29:45 -0400
+
+
+Started GET "/assets/application-001948a807d6467a657420955d9f0c1c.js?body=1" for ::1 at 2015-03-16 12:29:45 -0400
+
+
+Started GET "/" for ::1 at 2015-03-16 12:29:53 -0400
+Processing by StaticController#home as HTML
+  Rendered static/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 78ms (Views: 77.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-6f7ae90c0e2407c4d3003283da1e770e.css?body=1" for ::1 at 2015-03-16 12:29:53 -0400
+
+
+Started GET "/assets/static-e23acb775a08d2ef1ed77dae6ac0a45a.css?body=1" for ::1 at 2015-03-16 12:29:53 -0400
+
+
+Started GET "/assets/static-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-03-16 12:29:53 -0400
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-16 12:29:53 -0400
+
+
+Started GET "/assets/application-001948a807d6467a657420955d9f0c1c.js?body=1" for ::1 at 2015-03-16 12:29:53 -0400
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-16 12:29:53 -0400
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-16 12:29:53 -0400
+
+
+Started GET "/" for ::1 at 2015-03-16 12:30:17 -0400
+Processing by StaticController#home as HTML
+  Rendered static/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 85ms (Views: 84.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static-d3de8f20b45b2d9094971c3d411fdd83.css?body=1" for ::1 at 2015-03-16 12:30:18 -0400
+
+
+Started GET "/assets/application-2b99f71da209c8ff110cf2bb6b0037d7.css?body=1" for ::1 at 2015-03-16 12:30:18 -0400
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-16 12:30:18 -0400
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-16 12:30:18 -0400
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-16 12:30:18 -0400
+
+
+Started GET "/assets/static-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-03-16 12:30:18 -0400
+
+
+Started GET "/assets/application-001948a807d6467a657420955d9f0c1c.js?body=1" for ::1 at 2015-03-16 12:30:18 -0400
+
+
+Started GET "/about" for ::1 at 2015-03-16 12:31:11 -0400
+Processing by StaticController#about as HTML
+  Rendered static/about.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 53ms (Views: 53.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-16 12:31:13 -0400
+Processing by StaticController#home as HTML
+  Rendered static/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 56ms (Views: 55.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/cat-pictures" for ::1 at 2015-03-16 12:31:18 -0400
+Processing by StaticController#cats as HTML
+  Rendered static/cats.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 827ms (Views: 48.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-16 12:31:21 -0400
+Processing by StaticController#home as HTML
+  Rendered static/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 55ms (Views: 54.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-16 12:32:02 -0400
+Processing by StaticController#home as HTML
+  Rendered static/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 50ms (Views: 49.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-16 12:32:02 -0400
+
+
+Started GET "/assets/application-2b99f71da209c8ff110cf2bb6b0037d7.css?body=1" for ::1 at 2015-03-16 12:32:02 -0400
+
+
+Started GET "/assets/static-d3de8f20b45b2d9094971c3d411fdd83.css?body=1" for ::1 at 2015-03-16 12:32:02 -0400
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-16 12:32:02 -0400
+
+
+Started GET "/assets/static-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-03-16 12:32:02 -0400
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-16 12:32:02 -0400
+
+
+Started GET "/assets/application-001948a807d6467a657420955d9f0c1c.js?body=1" for ::1 at 2015-03-16 12:32:02 -0400
+
+
+Started GET "/cat-pictures" for ::1 at 2015-03-16 12:32:04 -0400
+Processing by StaticController#cats as HTML
+  Rendered static/cats.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 765ms (Views: 53.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/cat-pictures/5" for ::1 at 2015-03-16 12:32:08 -0400
+Processing by StaticController#cats as HTML
+  Parameters: {"number_of_cats"=>"5"}
+  Rendered static/cats.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 716ms (Views: 46.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-2b99f71da209c8ff110cf2bb6b0037d7.css?body=1" for ::1 at 2015-03-16 12:32:08 -0400
+
+
+Started GET "/assets/static-d3de8f20b45b2d9094971c3d411fdd83.css?body=1" for ::1 at 2015-03-16 12:32:08 -0400
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-16 12:32:09 -0400
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-16 12:32:09 -0400
+
+
+Started GET "/assets/static-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-03-16 12:32:09 -0400
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-16 12:32:09 -0400
+
+
+Started GET "/assets/application-001948a807d6467a657420955d9f0c1c.js?body=1" for ::1 at 2015-03-16 12:32:09 -0400
+
+
+Started GET "/" for ::1 at 2015-03-16 12:32:14 -0400
+Processing by StaticController#home as HTML
+  Rendered static/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 60ms (Views: 59.1ms | ActiveRecord: 0.0ms)
