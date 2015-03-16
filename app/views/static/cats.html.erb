@@ -1,0 +1,11 @@
+<body>
+  <h1>Static#cats</h1>
+  <p>Find me in app/views/static/cats.html.erb</p>
+  
+  <%= yield %>
+
+  <% @cats.each do |cat| %>
+    <img src="<%= cat.url %>" alt="Cat pic">
+  <% end %>
+
+</body>
